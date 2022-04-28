@@ -3,7 +3,7 @@
 
 문제 및 코드
 -----
-[문제](https://www.acmicpc.net/problem/10718)
+[문제](https://www.acmicpc.net/problem/10430)
 
 
 
