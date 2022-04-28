@@ -37,7 +37,7 @@ for i in range(10):
 ```
 
 ## 참조
-[각 자리에 써있는 수를 다루는 알고리즘][Step/tools/eachnumber.md]
+[각 자리에 써있는 수를 다루는 알고리즘](Step/tools/eachnumber.md)
 
 - - - - - 
 
