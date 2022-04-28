@@ -5,7 +5,8 @@
 -----
 [문제][https://www.acmicpc.net/problem/2557]
 
-#답
+# 제출 코드
+
 print('Hello World!')
 
 
