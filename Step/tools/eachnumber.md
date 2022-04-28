@@ -21,6 +21,8 @@ while ck>=1:
     eachdata.insert(0, fin)
     ck=math.floor(ck/10)
     digit += 1
+    
+   
 ```
 
 
