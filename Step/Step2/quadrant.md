@@ -10,7 +10,7 @@
 
 # 제출 코드
 
-''' python
+``` python
 x=int(input())
 
 y=int(input())
@@ -26,7 +26,7 @@ else:
     else:
         print('3')
         
-'''
+```
 
 - - - - - 
 
